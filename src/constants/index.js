@@ -46,15 +46,15 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React vue js  Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Backend laravel  Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "wordpress Creator",
     icon: creator,
   },
 ];
@@ -116,34 +116,37 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+    "title": "Laravel 9 Livewire Developer",
+    "company_name": "Janli Consulting",
+    // "icon": starbucks,
+    "iconBg": "#383E56",
+    "date": "30 mai a 30 aout 2022",
+    "points": [
+      "Developed a web-based mail management application for a bank using Laravel Livewire.",
+      "Worked in a team of 3, utilizing Tailwind CSS for the layout.",
+      "Collaborated with cross-functional teams to ensure product quality.",
+      "Implemented responsive designs and ensured cross-browser compatibility."
     ],
-  },
+  }
+  ,
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+    "title": "Laravel Vue.js Tailwind CSS",
+    "company_name": "Geno",
+    // "icon": "tesla",  // You can replace this with the appropriate icon
+    "iconBg": "#E6DEDD",
+    "date": "Jan 2023 - Feb 2023",
+    "points": [
+      "I performed image maintenance on the website https://africaunity.net/.",
+      "Added new features, including the publication of articles and blogs.",
+      "Collaborated with cross-functional teams, including designers, product managers, and other developers, to create high-quality products.",
+      "Implemented responsive designs and ensured cross-browser compatibility.",
+      "Participated in code reviews and provided constructive feedback to other developers."
     ],
-  },
+  }
+  ,
   {
     title: "Web Developer",
-    company_name: "Shopify",
+    company_name: "freelance ",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
@@ -156,10 +159,10 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "davinci",
+    // icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "MAI 2024 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",

@@ -52,10 +52,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
  
-Junior Full Stack Web Developer with three years of experience, 
-I am currently pursuing a Bachelor's degree in IT and Web Application Development (MIAW) at the University of Évry. 
-With a BTS in Software Engineering and a Bachelor's degree in IT and Web Application Development (MIAW), 
-I am passionate about web programming and technical challenges, and I am fully committed to teamwork.
+
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
