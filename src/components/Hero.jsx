@@ -21,14 +21,14 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>ABDOU CHIRAC</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            <TypeAnimation
-              sequence={["Développeur Web", 1000, "Passionné de Technologie", 1000]} // Séquence d'animation
-              wrapper="span"
-              speed={50} // Vitesse de l'animation
-              repeat={Infinity} // Répétition infinie
-              className="text-[#915EFF]" // Classe pour styliser le texte
-            />
-          </p>
+  <TypeAnimation
+    sequence={["Web Developer", 1000, "Technology Enthusiast", 1000]} // Animation sequence
+    wrapper="span"
+    speed={50} // Animation speed
+    repeat={Infinity} // Infinite repetition
+    className="text-[#915EFF]" // Class to style the text
+  />
+</p>
         </div>
       </div>
 

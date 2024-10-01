@@ -118,7 +118,7 @@ const experiences = [
   {
     "title": "Laravel 9 Livewire Developer",
     "company_name": "Janli Consulting",
-    // "icon": starbucks,
+   icon: meta,
     "iconBg": "#383E56",
     "date": "30 mai a 30 aout 2022",
     "points": [
@@ -160,7 +160,7 @@ const experiences = [
   {
     title: "Full stack Developer",
     company_name: "davinci",
-    // icon: meta,
+    "icon": "tesla",
     iconBg: "#E6DEDD",
     date: "MAI 2024 - Present",
     points: [
@@ -201,16 +201,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "jsendmail",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      " Jsendmail allows managing all the company's mail traffic and client requests in real-time.",
     tags: [
       {
-        name: "react",
+        name: "laravel& liwevire",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "mysql",
         color: "green-text-gradient",
       },
       {
@@ -219,49 +219,49 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/abdouchirac2024/",
   },
   {
-    name: "Job IT",
+    name: "jobs.adaalearning",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "laravet api",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind css",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/abdouchirac2024/",
   },
   {
-    name: "Trip Guide",
+    name: "AfricaUnity",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "The site AfricaUnity is a professional and social network platform that connects users across Africa. It aims to foster collaboration, networking, and social interaction among professionals and individuals. Users can join communities, create profiles, and engage in discussions and connections related to various industries and social causes. The site appears to focus on empowering African unity through digital connections.",
     tags: [
       {
-        name: "nextjs",
+        name: "vue js 3",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "laravel api",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind css",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/abdouchirac2024/",
   },
 ];
 
